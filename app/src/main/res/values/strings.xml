@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RealtekOpenwrtDNS</string>
+    <string name="started">Service Started!</string>
+</resources>
